@@ -1,7 +1,7 @@
 fs = require('fs');
 const path = require('path');
 const { XMLParser } = require("fast-xml-parser")
-const { JSDOM } = require('jsdom');
+const { JSDOM } = require('jsdom')
 
 const options = {
   ignoreAttributes: false,

@@ -1,7 +1,5 @@
 const { readXML, readDOM } = require('./grades')
-// require('@testing-library/jest-dom')
 const { getByText } = require('@testing-library/dom')
-// const {h1} = require('./main')
 
 describe('XML', () => {
     const xml = readXML()
