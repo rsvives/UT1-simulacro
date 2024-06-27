@@ -1,0 +1,21 @@
+{
+  "name": "ut1-simulacro",
+  "version": "1.0.0",
+  "description": "## 1. XML",
+  "main": "test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-xml-parser": "^4.4.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "@testing-library/dom": "^10.2.0",
+    "@testing-library/jest-dom": "^6.4.6",
+    "jest-environment-jsdom": "^29.7.0",
+    "jsdom": "^24.1.0"
+  }
+}

@@ -29,5 +29,5 @@ Vincula el fichero `style.css` y haz lo siguiente:
     - color: #6741d9
 
 2. Las celdas 4 y 7 de la tabla: [1pt]
-    - color de fondo: d0bfff
+    - color de fondo: #d0bfff
 
